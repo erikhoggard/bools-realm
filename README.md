@@ -1,4 +1,4 @@
-# knot-and
+# Bool's Realm 64 
 collection of resources for a eurorack logic module I'm working on
 
 ## what is it
