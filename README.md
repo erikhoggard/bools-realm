@@ -1,11 +1,17 @@
-# Bool's Realm 64 
-collection of resources for a eurorack logic module I'm working on
+# Bool's Realm 
+A fully analogue eurorack logic module
 
 ## what is it
 It's a logic module 
 
 ## what are the things
-hmm TODO I think
+There's a rough schematic that can be imported to Circuit JS. I hope to
+eventually make a more "REAL" schematic.
+
+The Arduino folder contains a simple square wave generator app that can
+effectively be used as mock inputs.
 
 ### TODO
-figure out how to make it work with 1 or 2 inputs
+- front panel design
+- schematics that are actually useful and readable
+- maybe fix 2-input XOR behavior someday
